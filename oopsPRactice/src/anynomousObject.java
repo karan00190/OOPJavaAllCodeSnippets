@@ -10,8 +10,8 @@ class A{
 }
 public class anynomousObject {
     public static void main(String[] args) {
-        new A().show(); //ananymous object (nameless, not have any access);   and also the disadvantage is that it cannot reuse it ,we can only called once
-        new A().show();  //another object is created in heap (total = 2 objects is created)
+       // new Base().show(); //ananymous object (nameless, not have any access);   and also the disadvantage is that it cannot reuse it ,we can only called once
+        //new Base().show();  //another object is created in heap (total = 2 objects is created)
     }
 
 

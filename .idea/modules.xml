@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/OOPSystemDesign/OOPSystemDesign.iml" filepath="$PROJECT_DIR$/OOPSystemDesign/OOPSystemDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPsForPlacement.iml" filepath="$PROJECT_DIR$/OOPsForPlacement.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPSystemDesign/OnlineBookReader/OnlineBookReader.iml" filepath="$PROJECT_DIR$/OOPSystemDesign/OnlineBookReader/OnlineBookReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPSystemDesign/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/OOPSystemDesign/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuizApplication/QuizApplication.iml" filepath="$PROJECT_DIR$/QuizApplication/QuizApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/oopsPRactice/oopsPRactice.iml" filepath="$PROJECT_DIR$/oopsPRactice/oopsPRactice.iml" />
     </modules>
   </component>
