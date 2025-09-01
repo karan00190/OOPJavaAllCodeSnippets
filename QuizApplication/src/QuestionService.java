@@ -5,7 +5,7 @@ public class QuestionService {
     String selection[] = new String[5];
     //we need to create objects
     public QuestionService(){
-        questions[0]= new Question(1,"Which language supports platform independency ? ", "Java","cpp","python","Javascript","Java");
+        questions[0]= new Question(1,"Which language supports platform Independency ? ", "Java","cpp","python","Javascript","Java");
         questions[1]= new Question(2,"Which language is best for data science ? ", "Java","cpp","python","Javascript","python");
         questions[2]= new Question(3,"Which language is frontend language ? ", "Java","cpp","python","Javascript","Javascript");
         questions[3]= new Question(4,"Which language is the fastest language ? ", "Java","cpp","python","Javascript","cpp");
